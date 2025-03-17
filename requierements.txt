@@ -1,5 +1,5 @@
 streamlit
-numpy
-opencv-python
-Pillow
+numpy==1.23.5
+pillow==9.5.0
+opencv-python-headless==4.7.0.72
 streamlit-image-coordinates
